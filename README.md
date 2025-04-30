@@ -1,19 +1,20 @@
 # act6_widgets
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/user-attachments/assets/4e668649-05b8-4042-b999-4804e4b24bef)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/7f1101cf-e48a-4d59-88c7-ef151839a7fb)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/d218cc40-8272-49b7-a1b3-15b874512572)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+![image](https://github.com/user-attachments/assets/e257381b-ca20-4977-a9a4-d4e2201aa4a4)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/bcc22973-3f00-41d7-8a52-148b263d922e)
 
-## Getting Started: FlutLab - Flutter Online IDE
+![image](https://github.com/user-attachments/assets/671a3431-d409-456a-bc87-89eada8e7355)
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/user-attachments/assets/f00f2304-127f-42dd-9faf-0d6345767e3d)
+
+![image](https://github.com/user-attachments/assets/64961845-10e6-46ce-b894-70848e0be330)
+
+![image](https://github.com/user-attachments/assets/0e7c460b-64df-40df-bcb2-b4b28e5112d8)
+
